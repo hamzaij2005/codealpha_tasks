@@ -69,7 +69,7 @@ int main() {
              << ", Grade Point = " << gradePoints[i] << endl;
     }
 
-    cout << "\n✅ Final GPA / CGPA: " << GPA << endl;
+    cout << "\n Final GPA / CGPA: " << GPA << endl;
 
     return 0;
 }
